@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/wpf-book/static/css/main.f155bf23.css",
+    "main.js": "/wpf-book/static/js/main.16918f3f.js",
+    "static/js/787.44d93513.chunk.js": "/wpf-book/static/js/787.44d93513.chunk.js",
+    "static/media/second.png": "/wpf-book/static/media/second.aa104677e5b00e059952.png",
+    "static/media/seven.png": "/wpf-book/static/media/seven.7ebaf6302497b1a96a15.png",
+    "static/media/three.png": "/wpf-book/static/media/three.38f69d6708b65c714adc.png",
+    "static/media/thirteen.png": "/wpf-book/static/media/thirteen.09d60afd1e27f6f7e3cf.png",
+    "static/media/first.png": "/wpf-book/static/media/first.77cd081422474a1ad8bd.png",
+    "static/media/four.png": "/wpf-book/static/media/four.9bbdd2348a90b168fc84.png",
+    "static/media/five.png": "/wpf-book/static/media/five.1ac60dfebf9ac23cbe37.png",
+    "static/media/ten.png": "/wpf-book/static/media/ten.86c7eba83b541c2346f6.png",
+    "static/media/twelve.png": "/wpf-book/static/media/twelve.e8d82eae22d4782dc882.png",
+    "static/media/nine.png": "/wpf-book/static/media/nine.3fae0227e6495be854f0.png",
+    "static/media/seventeen.png": "/wpf-book/static/media/seventeen.900110eebd8e6a912a45.png",
+    "static/media/fourteen.png": "/wpf-book/static/media/fourteen.29ed7ff031659f53345c.png",
+    "static/media/fifteen.png": "/wpf-book/static/media/fifteen.563a081c1eb150f16107.png",
+    "static/media/eight.png": "/wpf-book/static/media/eight.ae419aea666b61738a30.png",
+    "static/media/six.png": "/wpf-book/static/media/six.4414296cc372f57d0819.png",
+    "static/media/eleven.png": "/wpf-book/static/media/eleven.c83cab0b4ccedbefad66.png",
+    "static/media/eighteen.png": "/wpf-book/static/media/eighteen.7f5e6905ca036140c203.png",
+    "index.html": "/wpf-book/index.html",
+    "main.f155bf23.css.map": "/wpf-book/static/css/main.f155bf23.css.map",
+    "main.16918f3f.js.map": "/wpf-book/static/js/main.16918f3f.js.map",
+    "787.44d93513.chunk.js.map": "/wpf-book/static/js/787.44d93513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f155bf23.css",
+    "static/js/main.16918f3f.js"
+  ]
+}
